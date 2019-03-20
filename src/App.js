@@ -12,6 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <p>React 从这里开始</p>
+          <p>新增p标签</p>
         </header>
       </div>
     );
